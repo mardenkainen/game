@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "phaser": "^3.55.2"
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "html-loader": "^4.2.0"
+  }
+}
